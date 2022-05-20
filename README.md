@@ -1,2 +1,2 @@
 # Bitcoin-Hash-analysis
-Grahpical representation of hash/nonce in bitcoin mining
+Grahpical analysis of hash/nonce in bitcoin mining
